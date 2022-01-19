@@ -51,7 +51,7 @@ export default {
 
 <style lang="scss" scoped>
 .products {
-    height: 600px;
+    height: 750px;
     background-image: url(../assets/images/bg.jpg);
     background-size: cover;
 }
