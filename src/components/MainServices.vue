@@ -45,13 +45,13 @@
             </div>
         </div>
 
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="black" fill-opacity="1" d="M0,224L720,96L1440,224L1440,320L720,320L0,320Z"></path></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#111213" fill-opacity="1" d="M0,224L720,96L1440,224L1440,320L720,320L0,320Z"></path></svg>
     </main>
 </template>
 
 <script>
 export default {
-    name: 'Main',
+    name: 'MainServices',
 };
 </script>
 
