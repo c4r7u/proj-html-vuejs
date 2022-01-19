@@ -47,6 +47,12 @@ export default {
 
 
 <style lang="scss" scoped>
+@import '../styles/general.scss';
+
+
+
+
+
 
 header {
     height: 600px;
@@ -92,7 +98,7 @@ a img {
 .shop-name {
     font-family: 'Pacifico', sans-serif;
     font-weight: bold;
-    color: #dddddd;
+    color: #b1b1b1;
 }
 
 .presentation-shop {
@@ -118,16 +124,16 @@ a img {
     color: #686868;
 }
 
-.button {
-    display: block;
-    margin-top: 20px;
-    padding: 10px 10px;
-    text-decoration: none;
-    border: 1px solid #be9359;
-    color: #be9359;
-    width: 140px;
-    text-align: center;
-}
+// .button {
+//     display: block;
+//     margin-top: 20px;
+//     padding: 10px 10px;
+//     text-decoration: none;
+//     border: 1px solid #be9359;
+//     color: #be9359;
+//     width: 140px;
+//     text-align: center;
+// }
 
 .image {
     height: 400px;
